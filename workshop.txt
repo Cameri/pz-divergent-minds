@@ -1,0 +1,17 @@
+version=1
+id=
+title=Divergent Minds
+description=This mods adds new traits to the game:
+description=
+description=[b]TRAIT1 - Cost +7[/b]
+description=- Everyday you have a 35% chance to be in Hyperfocus, but will otherwise be in Hypofocus. 40% chance with the Lucky trait
+description=- Hyperfocus will grant you the traits: Fast Learner, Fast Reader, Organized, and Dextrous.
+description=- Hypofocus will grant you the traits: Slow Learner, Slow Reader, Disorganized and All Thumbs.
+description=- Each survived day Increases the chance of Hyperfocus by 0.5% Up to a max cap of 70%.
+description=- Medication: Adderal - Negates all positive and negative effects of ADHD untill the next roll (00:00AM). Best used in the morning, starts with 20 pills
+description=
+description=
+description=Source: https://github.com/cameri/pz-divergent-minds
+description=https://t.me/+DXKyMq1-hBtjZDEx If you want to get in touch
+tags=Build 41;Traits;Misc;Realistic
+visibility=public

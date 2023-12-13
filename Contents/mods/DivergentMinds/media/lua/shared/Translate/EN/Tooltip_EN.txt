@@ -1,0 +1,3 @@
+Tooltip_EN = {
+    Tooltip_PillsProzac = "Negates all the effects of OCD for a day. Increases hunger.",
+}

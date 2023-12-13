@@ -1,0 +1,6 @@
+name=Divergent Minds
+id=DivergentMinds
+description=Divergent Minds for Project Zomboid
+require=ProfessionFramework
+poster=poster.png
+icon=icon.png
