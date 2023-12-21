@@ -1,4 +1,4 @@
 UI_EN = {
     UI_trait_OCD = "Obsessive-Compulsive Disorder (OCD)",
-    UI_trait_OCDdesc = "Every in-game ten minutes you will have a 15% chance of becoming obsessed. Prolonged obessions cause you to become stressed. You can calm yourself by repeatedly reloading ammunition, opening and closing doors, windows and vehicle trunks.<br>",
+    UI_trait_OCDdesc = "Every 10 in-game minutes you will have a 10% chance of becoming obsessed. Prolonged obessions cause you to become stressed. You can calm yourself by repeatedly reloading ammunition, opening and closing doors, windows and vehicle trunks.<br>",
 }

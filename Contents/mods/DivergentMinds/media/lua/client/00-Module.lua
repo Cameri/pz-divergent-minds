@@ -1,0 +1,5 @@
+DivergentMinds = {
+    PlayerMigrations = {},
+    Traits = {},
+    Items = {}
+}
